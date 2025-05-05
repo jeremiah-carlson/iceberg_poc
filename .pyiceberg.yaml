@@ -1,0 +1,6 @@
+catalog :
+  local:
+    uri: sqlite:///iceberg_catalog/catalog.db
+    warehouse: file://iceberg_catalog
+  default: 
+    uri: sqlite:///iceberg_cloud_catalog/catalog.db

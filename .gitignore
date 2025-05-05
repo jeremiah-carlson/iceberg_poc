@@ -1,4 +1,4 @@
-*_catalog/
+*_catalog/*
 !*_catalog/.gitkeep
 
 # Byte-compiled / optimized / DLL files
